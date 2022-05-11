@@ -16,7 +16,7 @@
     <?php include "menu.php"; ?>
 
     <div class="d-flex justify-content-center mt-5">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 50%;">
             <div class="card-header">
                 <h5 class="card-title">Login</h5>
             </div>
